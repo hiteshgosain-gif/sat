@@ -1,0 +1,212 @@
+{
+ "ka_dsat": {
+  "site": "Khan Academy",
+  "title": "Official Digital SAT Prep (course home)",
+  "url": "https://www.khanacademy.org/test-prep/digital-sat"
+ },
+ "ka_math": {
+  "site": "Khan Academy",
+  "title": "SAT Math course",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math"
+ },
+ "ka_rw": {
+  "site": "Khan Academy",
+  "title": "SAT Reading & Writing course",
+  "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing"
+ },
+ "ka_lin": {
+  "site": "Khan Academy",
+  "title": "Lesson: Solving linear equations & inequalities (medium)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-medium/x0fcc98a58ba3bea7:solving-linear-equations-and-linear-inequalities-medium/a/v2-sat-lesson-solving-linear-equations-and-inequalities"
+ },
+ "ka_lin_e": {
+  "site": "Khan Academy",
+  "title": "Lesson: Solving linear equations & inequalities (easier)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:solving-linear-equations-and-inequalities-easier/a/v2-sat-lesson-solving-linear-equations-and-inequalities"
+ },
+ "ka_sys": {
+  "site": "Khan Academy",
+  "title": "Lesson: Systems of linear equations (medium)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-medium/x0fcc98a58ba3bea7:solving-systems-of-linear-equations-medium/a/v2-sat-lesson-solving-systems-of-linear-equations"
+ },
+ "ka_sys_h": {
+  "site": "Khan Academy",
+  "title": "Lesson: Systems of linear equations (harder)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-harder/x0fcc98a58ba3bea7:solving-systems-of-linear-equations-harder/a/v2-sat-lesson-solving-systems-of-linear-equations"
+ },
+ "ka_nlf": {
+  "site": "Khan Academy",
+  "title": "Lesson: Nonlinear functions (medium)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-medium/x0fcc98a58ba3bea7:nonlinear-functions-medium/a/v2-sat-lesson-nonlinear-functions"
+ },
+ "ka_nlf_e": {
+  "site": "Khan Academy",
+  "title": "Lesson: Nonlinear functions (easier)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-easier/x0fcc98a58ba3bea7:nonlinear-functions-easier/a/v2-sat-lesson-nonlinear-functions"
+ },
+ "ka_pct": {
+  "site": "Khan Academy",
+  "title": "Lesson: Percentages (medium)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-medium/x0fcc98a58ba3bea7:percentages-medium/a/v2-sat-lesson-percentages"
+ },
+ "ka_pct_h": {
+  "site": "Khan Academy",
+  "title": "Lesson: Percentages (harder)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-harder/x0fcc98a58ba3bea7:percentages-harder/a/v2-sat-lesson-percentages"
+ },
+ "ka_trig": {
+  "site": "Khan Academy",
+  "title": "Lesson: Right triangle trigonometry (medium)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-medium/x0fcc98a58ba3bea7:right-triangle-trigonometry-medium/a/v2-sat-lesson-right-triangle-trigonometry"
+ },
+ "ka_unit": {
+  "site": "Khan Academy",
+  "title": "Lesson: Unit circle trigonometry",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-easier/x0fcc98a58ba3bea7:unit-circle-trigonometry-easier/a/v2-sat-lesson-unit-circle-trigonometry"
+ },
+ "ka_geo_e": {
+  "site": "Khan Academy",
+  "title": "Unit: Geometry & trigonometry (easier)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-easier"
+ },
+ "ka_geo_h": {
+  "site": "Khan Academy",
+  "title": "Unit: Geometry & trigonometry (harder)",
+  "url": "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-harder"
+ },
+ "ka_bound": {
+  "site": "Khan Academy",
+  "title": "Lesson: Boundaries overview",
+  "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:boundaries/a/boundaries-overview"
+ },
+ "ka_bound_v": {
+  "site": "Khan Academy",
+  "title": "Video: Boundaries quick example",
+  "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:boundaries/v/boundaries-quick-example"
+ },
+ "ka_bound_adv": {
+  "site": "Khan Academy",
+  "title": "Practice: Boundaries (advanced)",
+  "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:advanced-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:boundaries-3/e/boundaries-advanced"
+ },
+ "ka_punct_v": {
+  "site": "Khan Academy",
+  "title": "Video: Boundaries/punctuation worked example",
+  "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:digital-sat-grammar-practice/x0d47bcec73eb6c4b:boundaries-punctuation/v/boundaries-punctuation-worked-example"
+ },
+ "ka_link_v": {
+  "site": "Khan Academy",
+  "title": "Video: Linking clauses",
+  "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:digital-sat-grammar-practice/x0d47bcec73eb6c4b:boundaries-linking-clauses/v/linking-clauses-video"
+ },
+ "ka_rs": {
+  "site": "Khan Academy",
+  "title": "Lesson: Rhetorical synthesis",
+  "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:rhetorical-synthesis/a/rhetorical-synthesis-lesson"
+ },
+ "ka_trans": {
+  "site": "Khan Academy",
+  "title": "Lesson: Transitions (Get Ready course)",
+  "url": "https://www.khanacademy.org/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd:get-ready-expression-of-ideas-standard-english-conventions/x07a01ed1f1ffc4bd:transitions/a/transitions-lesson"
+ },
+ "ka_wic": {
+  "site": "Khan Academy",
+  "title": "Lesson plan: Word choice & words in context",
+  "url": "https://www.khanacademy.org/test-prep/sat/new-sat-tips-planning/sat-coach-tools-official-reading-and-writing-lesson-plans/a/word-choice-and-words-in-context"
+ },
+ "yt_ka_math": {
+  "site": "YouTube \u00b7 Scalar Learning",
+  "title": "Playlist: Digital SAT Math on Khan Academy (walkthroughs)",
+  "url": "https://www.youtube.com/playlist?list=PLZBnAG03572pK4JD-L8GnLLPZ6OMv6hor"
+ },
+ "yt_ka_pam": {
+  "site": "YouTube \u00b7 Khan Academy SAT",
+  "title": "Playlist: Passport to advanced mathematics",
+  "url": "https://www.youtube.com/playlist?list=PL6dL3ACWCL8c_Vw8F0-97LPMr927tkAFV"
+ },
+ "yt_scalar_desmos": {
+  "site": "YouTube \u00b7 Scalar Learning",
+  "title": "Video: Desmos super hacks for digital SAT Math",
+  "url": "https://www.youtube.com/watch?v=T-hgOvYTBPU"
+ },
+ "yt_scalar_fac": {
+  "site": "YouTube \u00b7 Zinkerz Prep",
+  "title": "Video: Desmos hacks \u2014 factors & positive constant",
+  "url": "https://www.youtube.com/watch?v=w4Hg0-3jIkA"
+ },
+ "yt_desmos_course": {
+  "site": "YouTube \u00b7 Tutorllini Test Prep",
+  "title": "Playlist: Digital SAT Math Desmos course",
+  "url": "https://www.youtube.com/playlist?list=PLf3ypEs9Kobgascv5bwpOadB0UiVI5IQS"
+ },
+ "yt_cb_expect": {
+  "site": "YouTube \u00b7 College Board",
+  "title": "Video: What to expect from the digital SAT",
+  "url": "https://www.youtube.com/watch?v=a7LUE8EQSLM"
+ },
+ "yt_trans": {
+  "site": "YouTube \u00b7 3-4-5 Tutoring",
+  "title": "Video: The three main types of transitions",
+  "url": "https://www.youtube.com/watch?v=Yo-Haulw6gM"
+ },
+ "yt_rs": {
+  "site": "YouTube \u00b7 Ivy League Mentors",
+  "title": "Video: Rhetorical synthesis strategies & practice",
+  "url": "https://www.youtube.com/watch?v=lo7LFbac_9o"
+ },
+ "yt_circle": {
+  "site": "YouTube \u00b7 Gradeful SAT Test Prep",
+  "title": "Video: Completing the square for circles",
+  "url": "https://www.youtube.com/watch?v=vfT2VK_1cLo"
+ },
+ "cb_bluebook": {
+  "site": "College Board",
+  "title": "Bluebook: full-length adaptive practice tests",
+  "url": "https://bluebook.collegeboard.org/"
+ },
+ "cb_download": {
+  "site": "College Board",
+  "title": "Download the Bluebook app",
+  "url": "https://bluebook.collegeboard.org/students/download-bluebook"
+ },
+ "cb_practice": {
+  "site": "College Board",
+  "title": "Official SAT practice tests (all)",
+  "url": "https://satsuite.collegeboard.org/practice/practice-tests"
+ },
+ "cb_paper": {
+  "site": "College Board",
+  "title": "Paper practice tests + answer explanations",
+  "url": "https://satsuite.collegeboard.org/practice/practice-tests/paper"
+ },
+ "cb_pt4_ans": {
+  "site": "College Board",
+  "title": "Practice Test 4 answer explanations (PDF)",
+  "url": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-4-answers-digital.pdf"
+ },
+ "cb_math": {
+  "site": "College Board",
+  "title": "What's on the test: Math",
+  "url": "https://satsuite.collegeboard.org/sat/whats-on-the-test/math"
+ },
+ "cb_rw": {
+  "site": "College Board",
+  "title": "What's on the test: Reading & Writing",
+  "url": "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing"
+ },
+ "cb_ref": {
+  "site": "College Board",
+  "title": "Test directions PDF incl. Math reference sheet",
+  "url": "https://satsuite.collegeboard.org/media/pdf/english-sat-test-directions-bb.pdf"
+ },
+ "cb_framework": {
+  "site": "College Board",
+  "title": "Digital SAT assessment framework (PDF)",
+  "url": "https://satsuite.collegeboard.org/media/pdf/assessment-framework-for-digital-sat-suite.pdf"
+ },
+ "desmos": {
+  "site": "Desmos",
+  "title": "Desmos graphing calculator",
+  "url": "https://www.desmos.com/calculator"
+ }
+}
